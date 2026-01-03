@@ -7,22 +7,6 @@ Due to file-size constraints, the original raw dataset is not included in this r
 
 ---
 
-## Project Structure
-
-us_traffic-accidents/
-│
-├── scripts/
-│   ├── create_sample.py
-│   ├── clean_data.py
-│   ├── eda.py
-│
-├── data/
-│   ├── traffic_crashes_sample.csv
-│   ├── traffic_crashes_cleaned.csv
-│
-└── README.md
-
----
 
 ## Workflow
 
@@ -53,7 +37,3 @@ us_traffic-accidents/
 
 ---
 
-## Author
-
-Bella Swan  
-B.Sc. Data Science Undergraduate – SLIIT
