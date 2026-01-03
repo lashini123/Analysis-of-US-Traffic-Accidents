@@ -57,4 +57,3 @@ us_traffic-accidents/
 
 Bella Swan  
 B.Sc. Data Science Undergraduate – SLIIT
-
